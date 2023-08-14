@@ -1,4 +1,4 @@
-Here's page [another page](./another-page.html)
+Here's page [another page](./another-page.md)
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
